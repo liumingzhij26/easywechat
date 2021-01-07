@@ -97,6 +97,7 @@ class Guard
         'device_text' => 512,
         'file' => 1024,
         'event' => 1048576,
+        'miniprogrampage' => 1048576,
     ];
 
     /**
